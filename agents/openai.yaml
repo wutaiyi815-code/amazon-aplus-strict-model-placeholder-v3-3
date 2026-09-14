@@ -1,0 +1,4 @@
+interface:
+  display_name: "Amazon A+ Strict Model Placeholder V3.3"
+  short_description: "Strict A+ generation with dynamic reference contracts"
+  default_prompt: "Use $amazon-aplus-strict-model-placeholder-v3-3 to analyze every allowed image and generate one Amazon A+ SKU synchronously with exact relative-path tags, dynamic module reference contracts, identity safety, and complete timeout cleanup."
