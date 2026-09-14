@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*.bak*
+.env
+.env.*
+.venv/
+venv/
+
+# Generated business artifacts
+_aplus_color_options_backups/
+_aplus_creative_work/
+_influencer_selfie_work/
+_aplus_work/
+generated_split/
+输出结果/
+*_api_log.jsonl
+_aplus_sync_run_status.json
+_aplus_color_options_removal.json
+_aplus_creative_template_analysis.json
+_aplus_influencer_section_injection.json
+_influencer_background_contact_sheet.jpg
